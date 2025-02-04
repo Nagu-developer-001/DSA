@@ -4,7 +4,7 @@ num = 1
 for i in range(0,n):
     for j in range(0,n):
     print(num,end=",") 
-    nu+=1
+    num+=1
     print("\n")
 #pattern - 2 printing squared pattern Alphabets in contigious manner
 ch = 'A'
