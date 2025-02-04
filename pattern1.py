@@ -1,7 +1,7 @@
 #pattern - 1 - squared pattern -Number
 n = 5
 for i in range(1,n):
-    for j in range(1,n):
+    for j in range(1,n:
         print(j,end="")
     print("\n")
 #pattern - 2 - squared pattern -Stars
