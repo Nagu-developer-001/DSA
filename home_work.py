@@ -10,7 +10,7 @@ for i in range(n):
         print(ch,end="")
         chrN = ord(ch)
         ch = chr(chrN+1)
-    print("\n")
+    print(" ")
 # pattern 2
 # ch='A'
 # for i in range(n):
